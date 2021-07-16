@@ -1,1 +1,1 @@
-# Site feito para uma empresa de internet
+# Site feito para um provedor de internet
