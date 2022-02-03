@@ -1,1 +1,3 @@
-# Site feito para um provedor de internet
+# Projeto site
+
+Site feito para treinar css puro
